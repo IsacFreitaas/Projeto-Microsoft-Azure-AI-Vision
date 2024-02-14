@@ -88,36 +88,88 @@ Agora espere a implantação terminar, e ao terminar, clique em ir para o recurs
 --------------------------
 
 Bom, você vai entrar no portal Vision do Microsoft Azure (https://portal.vision.cognitive.azure.com/).
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/151ad437-83c8-4f11-8410-c6502d5ed3ca" width="900px" />
+</div>
 
 Agora, clique na aba Face.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/f662f48a-6ba7-4e91-a856-0cf5feeb7492" width="900px" />
+</div>
 
 Nessa parte, aparece a opção "Detect faces in an image". Então cliquei em "Try it out" para prosseguirmos.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/5566469b-ac1c-4410-b401-e6400f11abf3" width="900px" />
+</div>
 
 Aqui, marco essa caixa, permitindo uso de imagem, e aceitar os termos.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/09b40029-5f6d-4bdc-9343-80291c53e851" width="900px" />
+</div>
 
 Agora seleciono a imagem em "Browse for a file" a imagem que desejo usar para nosso teste.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/190e5847-a992-4b27-92b4-ec350864c4de" width="900px" />
+</div>
 
 Descendo mais um pouco a página, podemos ver o resultado do nosso teste.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/bf7ec831-fb4c-43fa-93d6-289816bfd1ae" width="900px" />
+</div>
 
 A ferramenta seleciona todo o rosto de pessoas da imagem que você selecionar. 
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/00812973-9c67-4edf-842a-5f8dd5b50e7a" width="900px" />
+</div>
 
-parte 2- agora vamos testar a ferramenta de reconhecimento e descrição de paisagens.
+--------------------------
+
+### 3- Reconhecimento e descrição de imagens.
+
+--------------------------
 
 Volte para a pagina inicial do Vision e entre na aba "Image Analysis".
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/0961a855-30f7-494e-927c-9446af05679a" width="900px" />
+</div>
 
 Desça a página até encontrar a opção "Add captions to images", e clique em Try It Out.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/29b50d5e-dc97-41a2-a871-040a8d50e2df" width="900px" />
+</div>
 
 Aqui, vou selecionar a imagem de paisagem que vamos analisar.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/53b03b9e-08df-4612-a5cc-3a1081ec4684" width="900px" />
+</div>
+
+Após o upload da imagem:
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/e2de4ad5-e577-43fe-bdac-6718f6fb0e2f" width="900px" />
+</div>
 
 A descrição, no caso, foi feita em inglês. Mas basicamente, a inteligência artificial descreveu como "Corpo de água com pessoas nadando".
 
-parte 3- reconhecimento de texto em imagem.
+--------------------------
+
+### 4- Reconhecimento de texto em imagens.
+
+--------------------------
 
 De volta a página inicial, vamos na aba "Optical Character Recognition" (ou Reconhecimento optico de caractéres), e vamos na sua única opção e clicamos em Try It Out.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/6cb682e5-bf51-4aa0-ae1f-a9d4e5ee36e8" width="900px" />
+</div>
 
 Aqui, vou carregar a imagem que separei para o nosso teste.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/12ac9e68-a2cc-4bd8-9110-7fb10bee54b1" width="900px" />
+</div>
 
-descendo mais um pouco a página, podemos ver o resultado do nosso teste.
+Descendo mais um pouco a página, podemos ver o resultado do nosso teste.
+<div align="center">
+<img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/06fbe697-0d48-4896-a9f4-08ae0be99e1a" width="900px" />
+</div>
 
 Aqui está nosso resultado. A máquina reconheceu todos o caractéres que formam palavras, porém não reconheceu a palavra "Day".
 
@@ -144,4 +196,7 @@ Atualmente estudante de Ciência de Dados e Inteligência Artificial.
 ### Me encontre:
 
 Insta: @isac.sfreitas
+
+
+
 Twitter: @isaczeitgeist
