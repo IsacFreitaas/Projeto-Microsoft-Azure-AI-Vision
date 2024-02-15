@@ -1,8 +1,6 @@
-# Projeto-Microsoft-Azure-AI-Vision
+# PROJETO: Utilizando VISION para Reconhecimento Facial e transformação de Imagens em Dados na linguagem computacional.
 
-Reconhecimento Facial e transformação de Imagens em Dados no Microsoft Azure ML
-
-Olá! Me chamo Isac Freitas, e este é meu projeto trabalhando com a ferramenta Vision da Microsoft Azure ML, para Reconhecimento Facial e transformação de Imagens em Dados.
+Olá! Me chamo Isac Freitas, e este é meu projeto trabalhando com a ferramenta Vision da Microsoft Azure AI, para Reconhecimento Facial e transformação de Imagens em Dados.
 
 Bom, para o projeto, foram dadas as instruções no curso de Microsoft Azure Ai Fundamentals pela plataforma DIO, com todos os dados para os alunos entregarem a atividade.
 
