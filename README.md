@@ -17,7 +17,7 @@ Foram compartilhados três links (documentações de apoio):
 3- https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
 
 
-Lembrando que antes de tudo, você tem que ir no portal da azure e criar um recurso de Video Indexer de IA, do Próprio Azure. Se você não tiver um recurso de Indexer de IA, vai ter que fazer isso antes do processo, se não, não vai conseguir utilizar o Azure AI Vision.
+Lembrando que antes de tudo, você tem que ir no portal da Azure e criar um recurso de Video Indexer de IA, do Próprio Azure. Se você não tiver um recurso de Indexer de IA, vai ter que fazer isso antes do processo, se não, não vai conseguir utilizar o Azure AI Vision.
 
 --------------------------
 
@@ -35,7 +35,7 @@ Na caixinha "Serviços de pesquisa e marketplace", digitamos "Azure AI services"
 <img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/f03565d1-0a50-41cf-b317-c56169bc1a49" width="900px" />
 </div>
 
-*DICA: se aparecer uma caixa acima de sua pesquisa que diz "Obtenha sugestões geradas por IA para sua pesquisa", clique em "Exibir sugestões para que os resultados sejam melhores.
+*DICA: se aparecer uma caixa acima de sua pesquisa que diz "Obtenha sugestões geradas por IA para sua pesquisa", clique em "Exibir sugestões" para que os resultados sejam melhores .
 <div align="center">
 <img src="https://github.com/IsacFreitaas/Projeto-Microsoft-Azure-AI-Vision/assets/65254733/183bfdfa-5a79-4106-8510-2fd15efe925d" width="900px" />
 </div>
